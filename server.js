@@ -22,7 +22,11 @@ const port = process.env.PORT || 5000;
 const whitelist = [
   "https://miiv-persian-shop.vercel.app/",
   "http://localhost:3000",
-  "https://miiv-persian-shop.vercel.app/"
+  "https://miiv-persian-shop.vercel.app/",
+"https://miiv-persian-shop.vercel.app/",
+"https://miiv-persian-shop-sabas-projects-edc52f08.vercel.app/",
+"https://miiv-persian-shop-git-main-sabas-projects-edc52f08.vercel.app/",
+"https://miiv-persian-shop.vercel.app/"
 ];
 
 const corsOptions = {
